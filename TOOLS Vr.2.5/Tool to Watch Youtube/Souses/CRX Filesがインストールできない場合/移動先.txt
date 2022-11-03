@@ -1,0 +1,8 @@
+移動先....
+
+C:\Users\<ユーザー名>\AppData\Local\Google\Chrome\User Data\Default\Extensions
+
+<ユーザー名>はタブレットの番号例えば 001234を当てはめる
+そうするとこうなる
+C:\Users\001234\AppData\Local\Google\Chrome\User Data\Default\Extensions
+それをエクスプローラーの上のバーにペーストする
